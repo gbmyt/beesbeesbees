@@ -4,7 +4,7 @@ var HoneyMakerBee = function() {
 	this.job = 'make honey';
 	this.honeyPot = 0;
 };
-
+// empty commit
 HoneyMakerBee.prototype = Object.create(Bee.prototype);
 HoneyMakerBee.prototype.constructor = HoneyMakerBee;
 
