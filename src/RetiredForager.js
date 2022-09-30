@@ -5,7 +5,7 @@ var RetiredForagerBee = function() {
 	this.canFly = false;
 	this.color = 'grey';
 };
-
+// empty commit
 RetiredForagerBee.prototype = Object.create(ForagerBee.prototype);
 RetiredForagerBee.prototype.constructor = RetiredForagerBee;
 
